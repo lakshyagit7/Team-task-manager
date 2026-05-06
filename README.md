@@ -32,4 +32,10 @@ cd frontend
 npm install
 npm start
 
+## Deployment
+Deployed on **Render** (Railway free credits expired during development)
+
+- Frontend: https://team-task-manager-frontend-h1zj.onrender.com
+- Backend: https://team-task-manager-xwcn.onrender.com
+
 .
